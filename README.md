@@ -2,6 +2,19 @@
 
 I love unraveling complex systems and figuring out how things work, whether it’s analyzing human behavior, spotting financial patterns, or taking apart the dehumidifier in my apartment.
 
+## What I specialise in 🔍
+I focus on **fraud analytics**: turning dense, structured and semi-structured fraud data into clean, reliable datasets.
+
+- **Extracting and cleaning data:**
+  I pull data from API and industry reports, clean and reshape it with Python, R or Excel into consistent datasets ready for analysis.
+- **Modelling data:**
+  I use PostgreSQL and build star schemas with repeatable (idempotent) load scripts and automated data quality checks, so the numbers can be trusted.
+- **Regulation and standards:**
+  I'm studying the regulatory side of AML (anti-money-laundering) work, namely the FATF Recommendations and the UK Proceeds of Crime Act 2002 (POCA).
+  Alongside this, and through my own projects, I'm also learning the ISO 20022 payment messaging standard.
+
+📂 **Featured project:** [AML Transaction Monitoring](https://github.com/tomasb1805/aml_transaction_monitoring)
+
 ## How I work 📥 
 - **Looking under the hood:**
   I am never satisfied with being handed a solution without first understanding how the underlying factors interact at a fundamental level, and, most importantly, why the solution works.
@@ -16,20 +29,18 @@ I value clear communication, respect, rigorous thinking, and work that serves a 
 
 ## Some tools I use 🔧
 <p align="left">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="excel" height="30"/>
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="r-programming-language" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="git" width="45" height="45"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" alt="seaborn" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="45" height="45"/>
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-
-
-          
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>                   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/positron/positron-original.svg" alt="positron" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="google-cloud" width="45" height="45"/>
@@ -41,11 +52,11 @@ I value clear communication, respect, rigorous thinking, and work that serves a 
 
 ## My favourite quotes ✍🏻
 <p>"Discovery consists of seeing what everybody has seen and thinking what nobody has thought" </p>
-<p>- Nobel-Prize in Medicine recipient Albert von Szent-Györgyi </p>
+<p>— Albert von Szent-Györgyi , Nobel laureate in Physiology or Medicine </p>
 <p>"Vivendo Discimus" (Latin for: "By living, we learn")</p>
-<p>- Motto of Patrick Geddes' Summer Meetings held in Edinburgh, late 19th Century </p>
+<p>— Motto of Patrick Geddes' Summer Meetings held in Edinburgh, late 19th Century </p>
 
-## You can reach me out here 🤝🏻
+## You can reach me here 🤝🏻
 <p align="left">
   <a href="https://www.linkedin.com/in/brian-tomassoni">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
